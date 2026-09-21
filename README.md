@@ -74,7 +74,7 @@ This dashboard provides a comprehensive analysis of patient admissions, healthca
 It integrates multiple data sources using Power Query and uses DAX measures to calculate critical healthcare metrics, providing a clear view of patient flow, admission patterns, and resource utilization. Interactive slicers and filters allow users to explore data by admission type, diagnosis category, patient demographics, and treatment status, enabling deeper insight into healthcare service delivery.
 
 
-Key findings:
+**Key findings**: Draft in progress......
 
-Dashboard Overview:
+**Dashboard Overview**:
 ![HealthCare](HealthCare.png)
