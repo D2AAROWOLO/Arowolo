@@ -64,11 +64,15 @@ Additionally, the dashboard includes interactive slicers and a timeline. The sli
 
 # Project 3
 
-**Title**:
+**Title**:[Patient Admission and Analytics Dashboard]
 
-Tools Used:
+**Tools Used**: 
+Power BI Desktop, Power Query, DAX, Data Modeling, Calculated Columns, Measures, Conditional Formatting, Interactive Visualizations, KPI Cards, Slicers, SWITCH(), COUNT(), COUNTX(), DISTINCTCOUNT(), DIVIDE(), MAX(), and MIN()
 
-Project Description:
+**Project Description**:
+This dashboard provides a comprehensive analysis of patient admissions, healthcare performance, and hospital operational metrics using interactive Power BI visualizations. It enables healthcare stakeholders to monitor admission trends, patient demographics, treatment outcomes, and key performance indicators that support data-driven decision-making.
+It integrates multiple data sources using Power Query and uses DAX measures to calculate critical healthcare metrics, providing a clear view of patient flow, admission patterns, and resource utilization. Interactive slicers and filters allow users to explore data by admission type, diagnosis category, patient demographics, and treatment status, enabling deeper insight into healthcare service delivery.
+
 
 Key findings:
 
