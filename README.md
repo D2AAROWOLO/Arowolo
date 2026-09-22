@@ -74,7 +74,20 @@ This dashboard provides a comprehensive analysis of patient admissions, healthca
 It integrates multiple data sources using Power Query and uses DAX measures to calculate critical healthcare metrics, providing a clear view of patient flow, admission patterns, and resource utilization. Interactive slicers and filters allow users to explore data by admission type, diagnosis category, patient demographics, and treatment status, enabling deeper insight into healthcare service delivery.
 
 
-**Key findings**: Draft in progress......
+**Key findings**: 
+1. Patient Admission
+The dashboard identifies patterns in patient admissions over time, primarily related to chronic conditions. Admissions are distributed almost evenly across all medical conditions, including Asthma, Arthritis, Cancer, Diabetes, Hypertension, and Obesity. A line chart was used primarily for visual representation rather than trend analysis, as it effectively highlights the minimal variation between conditions. This insight helps healthcare providers identify conditions with the highest admission volumes during specific periods and supports more effective resource planning and allocation.
+2. Demographic Analysis
+The dashboard provides a breakdown of patient distribution across age groups, gender, and other demographic categories, highlighting population segments with the highest healthcare demand. The total number of admissions is almost equally distributed between males (50.04%) and females (49.96%). Middle-aged and senior patients represent the largest age groups, accounting for 29.58% and 29.55% of admissions, respectively. Children account for just 0.11% of admissions, the lowest proportion, which is expected given that these chronic conditions are uncommon among younger patients.
+3. Admission Type Performance
+An analysis of admission types, including Emergency, Elective, and Urgent admissions, provides valuable insight into patient flow and operational workload across healthcare services. Elective admissions generated the highest billing value at 477M, followed closely by Urgent admissions at 474M and Emergency admissions at 465M. Understanding these patterns can support operational planning and resource management.
+4. Healthcare Resource Utilization
+The medication-by-medical-condition analysis reveals how hospital resources are utilized across various conditions. This information provides insight into medication administration patterns and supports capacity planning, resource optimization, and improvements in operational efficiency.
+5. Clinical Outcome Monitoring
+The dashboard tracks treatment outcomes and patient condition indicators, enabling stakeholders to assess healthcare performance and identify opportunities for improvement. Patient condition severity varies across the dataset, with the highest number of patients classified as Critical (18.5K), followed by Moderate (12.99K), Severe (12.89K), and Mild (11.1K). These insights help healthcare organizations monitor patient outcomes and prioritize care delivery strategies.
+6. Interactive Decision Support
+Interactive filters, slicers, and visualizations enable users to drill down into specific patient groups, billing categories, and insurance providers for more detailed analysis. This functionality enhances decision-making by allowing stakeholders to quickly explore trends, identify patterns, and gain actionable insights.
+
 
 **Dashboard Overview**:
 ![HealthCare](HealthCare.png)
