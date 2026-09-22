@@ -90,4 +90,3 @@ Interactive filters, slicers, and visualizations enable users to drill down into
 
 
 **Dashboard Overview**:
-![HealthCare](HealthCare.png)
