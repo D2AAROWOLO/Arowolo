@@ -90,3 +90,4 @@ Interactive filters, slicers, and visualizations enable users to drill down into
 
 
 **Dashboard Overview**:
+![PatientAdmission](PatientAdmission.png)
