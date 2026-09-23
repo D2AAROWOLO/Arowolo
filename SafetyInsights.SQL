@@ -1,9 +1,7 @@
 
-/* This project focuses on analyzing workplace safety data using SQL Server to identify trends, evaluate incident 
-costs, and generate operational insights across multiple plants and departments. The SQL scripts perform exploratory
-data analysis, cost assessments, departmental comparisons, and employee-related investigations by leveraging both 
-traditional SQL queries and advanced window functions.Codes for manipulating and extracting information from Dataset
-'Work safety Data' */
+/* The SQL scripts perform exploratory data analysis, cost assessments, departmental comparisons, and 
+employee-related investigations by leveraging both traditional SQL queries and advanced window functions.Codes for 
+manipulating and extracting information from Dataset (Work safety Data) */
 
 --Preliminary checks:
 
