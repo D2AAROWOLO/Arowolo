@@ -95,6 +95,27 @@ Interactive filters, slicers, and visualizations enable users to drill down into
 
 
 # Project 4
+**Title**: Work safety: Data Exploration, interrogation and Reporting
+
+**SQL Code**: [SQL Codes: DML](https://github.com/D2AAROWOLO/Arowolo/blob/main/SafetyInsights.SQL)
+
+**SQL Skills Used**:
+* Data Retrieval: SELECT Statements, Selecting specific columns, Retrieving all column SELECT*
+* Data Filtering: WHERE Clause, Filtering by single conditions, Filtering by multiple conditions, IN Operator, AND Operator, OR Operator
+* Data Grouping and Aggregate Functions: GROUP BY, HAVING, COUNT(), SUM(), MAX(), MIN(), AVG()
+* Data Exploration (EDA): Viewing datasets, Counting records, Exploring categories, Examining data distributions
+* Window Function: OVER(), PARTITION BY
+* Common Table Expression (CTE) and Aliasing: WITH, AS
+
+**Project Description**:
+This project focuses on analysing workplace safety data using SQL Server to identify trends, evaluate incident costs, and generate operational insights across multiple plants and departments. The SQL scripts perform exploratory data analysis, cost assessments, departmental comparisons, and employee-related investigations by leveraging both traditional SQL queries and advanced window functions.
+
+The analysis begins with preliminary data exploration, including viewing the dataset and validating the total number of records. It then examines incident costs across different plants, departments, age groups, genders, and injury locations to uncover patterns and areas of concern. Aggregate functions such as SUM, COUNT, and MAX are used to measure the financial impact of workplace incidents and compare performance across organizational units.
+
+**Technology used**: SQL server
+
+
+# Project 5
 **Title**: HR Records: data interrogation
 
 **SQL Code**: [SQL Codes: DML](https://github.com/D2AAROWOLO/Arowolo/blob/main/EmployeeSalary.SQL)
