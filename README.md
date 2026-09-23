@@ -97,10 +97,12 @@ Interactive filters, slicers, and visualizations enable users to drill down into
 # Project 4
 **Title**: HR Records: data interrogation
 
-**SQL Code**: [SQL Codes: DML]
-(https://github.com/D2AAROWOLO/Arowolo/blob/main/EmployeeSalary.SQL)
+**SQL Code**: [SQL Codes: DML](https://github.com/D2AAROWOLO/Arowolo/blob/main/EmployeeSalary.SQL)
 
-SQL Skills Used:
+**SQL Skills Used**:
+* Data Retrieval: SELECT Statements, DISTINCT, Multi-table Queries
+* Data Aggregation: COUNT, SUM, AVG, MIN, MAX
+* Data Filtering: WHERE, LIKE, BETWEEN, IN, NULL Handling
 
 Project Description:
 
