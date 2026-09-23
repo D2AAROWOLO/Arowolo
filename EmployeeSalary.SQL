@@ -1,4 +1,6 @@
---Queries:
+/*--This project contains a comprehensive collection of SQL Server queries designed to analyze
+and manage employee and salary data*/
+
 --1., Code to get EmpID and full name for all employees under the manager with ID 986
 
 Select[EmpID],[FullName]
