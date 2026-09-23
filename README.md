@@ -104,6 +104,6 @@ Interactive filters, slicers, and visualizations enable users to drill down into
 * Data Aggregation: COUNT, SUM, AVG, MIN, MAX
 * Data Filtering: WHERE, LIKE, BETWEEN, IN, NULL Handling
 
-Project Description:
+Project Description: Draft in progress...to be updated shortly
 
 Technology used: SQL server
