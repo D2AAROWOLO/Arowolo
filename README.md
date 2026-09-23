@@ -91,3 +91,17 @@ Interactive filters, slicers, and visualizations enable users to drill down into
 
 **Dashboard Overview**:
 ![PatientAdmission](PatientAdmission.png)
+
+
+
+# Project 4
+**Title**: HR Records: data interrogation
+
+**SQL Code**: [SQL Codes: DML]
+(https://github.com/D2AAROWOLO/Arowolo/blob/main/EmployeeSalary.SQL)
+
+SQL Skills Used:
+
+Project Description:
+
+Technology used: SQL server
