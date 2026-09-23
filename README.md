@@ -65,6 +65,7 @@ Additionally, the dashboard includes interactive slicers and a timeline. The sli
 # Project 3
 
 **Title**:[Patient Admission and Analytics Dashboard]
+(https://github.com/D2AAROWOLO/Arowolo/blob/main/PatientAdmission.png)
 
 **Tools Used**: 
 Power BI Desktop, Power Query, DAX, Data Modeling, Calculated Columns, Measures, Conditional Formatting, Interactive Visualizations, KPI Cards, Slicers, SWITCH(), COUNT(), COUNTX(), DISTINCTCOUNT(), DIVIDE(), MAX(), and MIN()
