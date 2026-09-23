@@ -1,5 +1,5 @@
 
-/* The SQL scripts perform exploratory data analysis, cost assessments, departmental comparisons, and 
+/* The SQL scripts below perform exploratory data analysis, cost assessments, departmental comparisons, and 
 employee-related investigations by leveraging both traditional SQL queries and advanced window functions.Codes for 
 manipulating and extracting information from Dataset (Work safety Data) */
 
