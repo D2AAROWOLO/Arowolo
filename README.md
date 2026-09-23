@@ -104,11 +104,11 @@ Interactive filters, slicers, and visualizations enable users to drill down into
 * Data Aggregation: COUNT, SUM, AVG, MIN, MAX
 * Data Filtering: WHERE, LIKE, BETWEEN, IN, NULL Handling
 * Conditional Logic (AND, OR)
-*Comparison Operators (=, !=, >=, <=)
-*Pattern Matching (LIKE, %, _)
-*Calculated Columns
-*Data Formatting (FORMAT)
-*Set Operations (UNION, UNION ALL)
+* Comparison Operators (=, !=, >=, <=)
+* Pattern Matching (LIKE, %, _)
+* Calculated Columns
+* Data Formatting (FORMAT)
+* Set Operations (UNION, UNION ALL)
 
 **Project Description**: 
 This project demonstrates the use of SQL Server queries to support employee management and salary analysis within an organization. The solution focuses on extracting meaningful business insights from employee and payroll data by retrieving employee records, analysing project assignments, evaluating salary information, and generating management reports. Through the use of filtering, aggregation functions, set operations, and table joins, the queries provide practical solutions for workforce tracking, compensation analysis, project participation monitoring, and organizational reporting. The project showcases how relational database techniques can be used to transform raw employee and salary data into actionable information for decision-making and business operations.
