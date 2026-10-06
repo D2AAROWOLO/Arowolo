@@ -135,3 +135,26 @@ The analysis begins with preliminary data exploration, including viewing the dat
 This project demonstrates the use of SQL queries to support employee management and salary analysis within an organization. The solution focuses on extracting meaningful business insights from employee and payroll data by retrieving employee records, analysing project assignments, evaluating salary information, and generating management reports. Through the use of filtering, aggregation functions, set operations, and table joins, the queries provide practical solutions for workforce tracking, compensation analysis, project participation monitoring, and organizational reporting. The project showcases how relational database techniques can be used to transform raw employee and salary data into actionable information for decision-making and business operations.
 
 **Technology used**: SQL server
+
+
+
+# Project 6
+**Title**: Sales, Budget and Financials
+
+
+**Tools Used**:
+
+
+
+**Project Description:**
+
+
+
+
+
+**Key findings:** 
+
+
+**Dashboard Overview:**
+
+
