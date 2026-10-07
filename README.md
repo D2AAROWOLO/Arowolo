@@ -143,6 +143,7 @@ This project demonstrates the use of SQL queries to support employee management 
 
 
 **Tools Used**:
+Power BI Desktop, Power Query, DAX, Data Modeling, Calculated Columns, Measures, Conditional Formatting, Interactive Visualizations, KPI Cards, Slicers, SWITCH(), COUNT(), COUNTX(), DISTINCTCOUNT(), DIVIDE(), MAX(), and MIN()
 
 
 
