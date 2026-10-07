@@ -157,6 +157,6 @@ Power BI Desktop, Power Query, DAX, Data Modeling, Calculated Columns, Measures,
 
 
 **Dashboard Overview:**
-![Financials1](Financials1.png)
+![ABCFinancials](ABCFinancials.png)
 
 
