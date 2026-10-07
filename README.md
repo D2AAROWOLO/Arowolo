@@ -138,7 +138,7 @@ This project demonstrates the use of SQL queries to support employee management 
 
 
 
-# Project 6
+# Project 6 (IN PROGESS...)
 **Title**: Sales, Budget and Financial Analaysis
 
 
