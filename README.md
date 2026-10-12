@@ -139,7 +139,7 @@ This project demonstrates the use of SQL queries to support employee management 
 
 
 # Project 6 (IN PROGESS...)
-**Title**: Sales, Budget and Financial Analaysis
+**Title**: [Sales, Budget and Financial Analaysis](https://github.com/D2AAROWOLO/Arowolo/blob/main/ABC%20Financials.pbix)
 
 
 **Tools Used**:
