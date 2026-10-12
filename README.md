@@ -157,6 +157,6 @@ This project demonstrates the use of SQL queries to support employee management 
 
 
 **Dashboard Overview:**
-![ABCFinancials](ABCFinancials.png)
+![SBF](SBF.png)
 
 
